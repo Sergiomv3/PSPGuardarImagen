@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guardar imagen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvRuta">URL:</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="tvGuardar">Guardar como:</string>
+    <string name="tvMemoria">Guardar en memoria:</string>
+    <string name="tvMemoriaPu">Externa publica:</string>
+    <string name="tvMemoriaPr">Externa privada:</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="btCompartir">Compartir</string>
+    <string name="btCompartir2">Compartir vía</string>
+
+
+</resources>
